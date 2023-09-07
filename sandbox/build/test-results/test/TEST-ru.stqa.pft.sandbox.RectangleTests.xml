@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.sandbox.RectangleTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-07T14:28:33" hostname="DESKTOP-UDOUCG3" time="0.007">
+<testsuite name="ru.stqa.pft.sandbox.RectangleTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-07T15:06:58" hostname="DESKTOP-UDOUCG3" time="0.005">
   <properties/>
-  <testcase name="testRectangle" classname="ru.stqa.pft.sandbox.RectangleTests" time="0.007"/>
+  <testcase name="testRectangle" classname="ru.stqa.pft.sandbox.RectangleTests" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
