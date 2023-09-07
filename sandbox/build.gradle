@@ -1,3 +1,15 @@
 apply plugin: 'java'
 apply plugin: 'application'
 mainClassName = 'Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.testng:testng:7.8.0'
+}
+
+test {
+    useTestNG()
+}
